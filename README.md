@@ -9,6 +9,7 @@ Source: Bank loan dataset containing information on applicants like gender, mari
 Target: Loan_Status (Y/N) — whether the loan was approved or not.
 
 🔧 Steps Performed
+
 1.Data Cleaning:
   * Handled missing values in features like Gender, Married, Self_Employed, etc.
   * Dropped unnecessary columns (Loan_ID).
